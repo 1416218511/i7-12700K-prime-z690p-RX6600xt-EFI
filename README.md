@@ -1,0 +1,2 @@
+# i7-12700K-prime-z690p-RX6600xt-EFI
+12700K 黑苹果EFI文件
